@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "941498931088",
+    "firebase_url": "https://songque-7d2b7.firebaseio.com",
+    "project_id": "songque-7d2b7",
+    "storage_bucket": "songque-7d2b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941498931088:android:26eac2383f866680e94515",
+        "android_client_info": {
+          "package_name": "com.bobby.songqueserveur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941498931088-vn0keble0ltc0ktcqrng3008cvk6vq0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOtD2NmHTnCSAYng9YhZLzAF_Bun_JFTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941498931088-vn0keble0ltc0ktcqrng3008cvk6vq0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
